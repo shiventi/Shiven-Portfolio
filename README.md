@@ -3,10 +3,10 @@
 Welcome to my portfolio! This webpage showcases my projects, skills, and achievements.
 
 ## Table of Contents
-- [Home](https://shiventi.github.io/Shiven-Portfolio/#home)
-- [About](https://shiventi.github.io/Shiven-Portfolio/#about)
-- [Skills](https://shiventi.github.io/Shiven-Portfolio/#skills)
-- [Work](https://shiventi.github.io/Shiven-Portfolio/#work)
+- [Home](https://shiventi.github.io/ShivenPortfolio/#home)
+- [About](https://shiventi.github.io/ShivenPortfolio/#about)
+- [Skills](https://shiventi.github.io/ShivenPortfolio/#skills)
+- [Work](https://shiventi.github.io/ShivenPortfolio/#work)
 
 # About
 My name is Shiven, and I am a dedicated student with a passion for finding knowledge.
